@@ -1,1 +1,1 @@
-# simple-websocket-app
+간단한 웹소켓 활용
